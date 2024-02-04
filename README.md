@@ -30,4 +30,4 @@ To run the Crowdfunding DApp locally, follow these steps:
     ```
 
 
-## Project Still In Development 
+## The project is still In development and has not been completed yet
