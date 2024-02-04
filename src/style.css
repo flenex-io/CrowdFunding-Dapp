@@ -705,17 +705,6 @@ form {
   }
 }
 
-/* @keyframes blink-caret {
-  from,
-  to {
-    border-color: transparent;
-    border-bottom: 0;
-  }
-
-  50% {
-    border-color: #282828;
-  }
-} */
 
 .walletButton {
   padding: 20px;
