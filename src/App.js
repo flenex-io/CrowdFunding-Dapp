@@ -72,8 +72,7 @@ function App() {
       alert("Couldn't connect to Metamask");
     }
   }
-
-  // Helps open Metamask
+  
   async function connectToMetamask() {
     try {
       await window.ethereum.enable();
@@ -128,6 +127,5 @@ function App() {
     </div>
   );
 }
-
 
 export default App;
