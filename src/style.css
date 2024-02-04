@@ -999,10 +999,6 @@ form {
   border-left: 1px solid #8f8f8f;
 }
 
-/* Profile page */
-
-.profileContainer {
-}
 
 .profileHeadingContainer h1 {
   font-size: 3em;
@@ -1072,8 +1068,6 @@ form {
   background-color: #fefefe;
   margin-left: 0%;
   margin-top: 8%;
-  -webkit-animation-name: animatetop;
-  -webkit-animation-duration: 0.4s;
 }
 
 .closeBtn {
