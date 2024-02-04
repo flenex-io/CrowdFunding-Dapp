@@ -24,4 +24,7 @@ To run the Crowdfunding DApp locally, follow these steps:
     npm i
     ```
 
-   
+4. Run the project:
+    ```
+    npm start
+    ```
