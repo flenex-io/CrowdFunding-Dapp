@@ -12,5 +12,16 @@ To run the Crowdfunding DApp locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Crowdfunding-Dapp.git
-   cd Crowdfunding-Dapp
+   git clone https://github.com/flenex-io/CrowdFunding-Dapp.git
+   ```
+2. Change the repo:
+    ```
+    cd Crowdfunding-Dapp
+    ```
+
+3. Install the dependencies:
+    ```
+    npm i
+    ```
+
+   
