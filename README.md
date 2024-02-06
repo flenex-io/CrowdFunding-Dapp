@@ -1,6 +1,6 @@
 # Crowdfunding DApp
 
-Welcome to the Crowdfunding DApp, a decentralized application (DApp) for fundraising projects using React and Solidity.
+Welcome to the Crowdfunding DApp, a decentralized application for fundraising projects using React and Solidity.
 
 ## Project Overview
 
